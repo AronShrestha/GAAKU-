@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>689a032e-503a-4028-8d00-5ef7ac8c2397_200x200.png</file>
+        <file>composition-map-pointer-creative-banner-location-mark-vector-illustration-118003981.jpg</file>
+        <file>E learning 1.png</file>
+        <file>E learning.png</file>
+        <file>layout resized.png</file>
+        <file>layout.png</file>
+        <file>mapping 1.png</file>
+        <file>mapping.png</file>
+        <file>Transcation.png</file>
+        <file>Transcation1.png</file>
+        <file>hritikdon.png</file>
+        <file>therealbuyer.jpg</file>
+        <file>logo.png</file>
+        <file>secure-transaction-icon-flat-design-.jpg</file>
+        <file>user_avatar_profile_login_button_account_member-512.png</file>
+        <file>secure-transaction-icon-flat-design-vector-clipart_csp46615106.jpg</file>
+        <file>mobile_banking_glyph_convert-512.png</file>
+    </qresource>
+</RCC>
